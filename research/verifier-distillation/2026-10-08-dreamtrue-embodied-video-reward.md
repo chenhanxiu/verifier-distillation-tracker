@@ -6,7 +6,7 @@
 - **原始论文**：https://arxiv.org/abs/2610.12468
 - **Canonical URL**：https://arxiv.org/abs/2610.12468
 - **项目页**：https://brave-eai.github.io/DreamTrue
-- **代码**：未发现公开代码链接
+- **代码**：https://github.com/brave-eai/DreamTrue
 
 ## 一句话结论
 
