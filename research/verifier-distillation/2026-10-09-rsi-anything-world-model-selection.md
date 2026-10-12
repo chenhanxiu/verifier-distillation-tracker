@@ -5,7 +5,7 @@
 - **版本日期**：2026-10-09（arXiv v1）
 - **原始论文**：https://arxiv.org/abs/2610.13912
 - **Canonical URL**：https://arxiv.org/abs/2610.13912
-- **代码**：未发现公开代码链接
+- **代码**：https://github.com/Gen-Verse/RSI-Anything
 
 ## 一句话结论
 
